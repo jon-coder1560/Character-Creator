@@ -44,19 +44,3 @@ elif character == "Archer":
     print(" Rapid Shot - Fires multiple arrows."
           "\n Piercing Arrow - Ignores some defense."
           "\n Dodge Roll - Increases chance to avoid attacks.")
-
-
-##Archer
-##
-##Description: Fast ranged fighter with balanced stats.
-##
-##Stats
-##Strength: 6
-##Defense: 4
-##Speed: 10
-##Magic: 2
-##Health: 80
-##Abilities
-##Rapid Shot – Fires multiple arrows.
-##Piercing Arrow – Ignores some defense.
-##Dodge Roll – Increases chance to avoid attacks.
